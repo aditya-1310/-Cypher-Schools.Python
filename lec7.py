@@ -11,12 +11,12 @@ while a<10:
   pass
 
 # FOR LOOP STATEMENT
-iter("Saad")
+iter("Aditya")
 
 #a=1
 #print(a.__iter__)
 
-a= "Saad"
+a= "Aditya"
 print(a.__iter__)
 for c in a:
   print(c)
@@ -74,7 +74,7 @@ for i in range(5):
 #print("rest of the code")
 
 if True:
-  "Saad Wasim"
+  "Aditya"
 print("rest of the code")
 
 if True:
@@ -85,17 +85,17 @@ print("rest of the code")
 for i in range(5):
   print(i)
 else:
-  print("Saad")
+  print("Aditya")
 
 for i in range(5):
   print(i)
   if i ==3:
     break
 else:
-  print("Saad")
+  print("Aditya")
 
 for i in range(5):
   print(i)
   if i ==3:
     break
-print("Saad")
+print("Aditya")
